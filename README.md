@@ -1,10 +1,6 @@
 import turtle
 import random
 
-# Налаштування екрану
-screen = turtle.Screen()
-screen.bgcolor("black")
-
 # Налаштування черепахи
 tree = turtle.Turtle()
 tree.speed(0)
